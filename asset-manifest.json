@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Akash_Das-My_Portfolio/static/css/main.b1ee08c8.chunk.css",
+    "main.js": "/Akash_Das-My_Portfolio/static/js/main.2846f23c.chunk.js",
+    "main.js.map": "/Akash_Das-My_Portfolio/static/js/main.2846f23c.chunk.js.map",
+    "runtime-main.js": "/Akash_Das-My_Portfolio/static/js/runtime-main.341a2534.js",
+    "runtime-main.js.map": "/Akash_Das-My_Portfolio/static/js/runtime-main.341a2534.js.map",
+    "static/js/2.7d6d49de.chunk.js": "/Akash_Das-My_Portfolio/static/js/2.7d6d49de.chunk.js",
+    "static/js/2.7d6d49de.chunk.js.map": "/Akash_Das-My_Portfolio/static/js/2.7d6d49de.chunk.js.map",
+    "index.html": "/Akash_Das-My_Portfolio/index.html",
+    "precache-manifest.4cfb9ab890aff99fe3400ffb07e12f01.js": "/Akash_Das-My_Portfolio/precache-manifest.4cfb9ab890aff99fe3400ffb07e12f01.js",
+    "service-worker.js": "/Akash_Das-My_Portfolio/service-worker.js",
+    "static/css/main.b1ee08c8.chunk.css.map": "/Akash_Das-My_Portfolio/static/css/main.b1ee08c8.chunk.css.map",
+    "static/js/2.7d6d49de.chunk.js.LICENSE.txt": "/Akash_Das-My_Portfolio/static/js/2.7d6d49de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.341a2534.js",
+    "static/js/2.7d6d49de.chunk.js",
+    "static/css/main.b1ee08c8.chunk.css",
+    "static/js/main.2846f23c.chunk.js"
+  ]
+}
